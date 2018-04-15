@@ -1,14 +1,15 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2018-04-15T18:40:55
+# Project created by QtCreator 2018-04-15T15:33:32
 #
 #-------------------------------------------------
 
 QT       += core gui
+QT       += sql
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Sql
+TARGET = SqlTestDrive
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
